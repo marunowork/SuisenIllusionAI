@@ -1,0 +1,10 @@
+.env
+firebase/service-account.json
+data/images/*
+!data/images/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
